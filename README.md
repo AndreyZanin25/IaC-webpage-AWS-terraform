@@ -7,7 +7,7 @@ Requirements:
    SSH (port 22)
 3) The Nginx server should display a custom webpage with the text: “Deployed via Terraform”
 4) Use variables to make the configuration reusable for different environments (e.g., dev, prod)
-
+```
 IaC-webpage-AWS-terraform/
 │
 ├── modules/
@@ -27,3 +27,4 @@ IaC-webpage-AWS-terraform/
 ├── outputs.tf
 ├── versions.tf
 └── README.md
+```
