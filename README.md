@@ -26,5 +26,6 @@ IaC-webpage-AWS-terraform/
 ├── variables.tf
 ├── outputs.tf
 ├── versions.tf
+├── .gitignore
 └── README.md
 ```
