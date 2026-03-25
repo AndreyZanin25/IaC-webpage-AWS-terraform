@@ -1,5 +1,4 @@
-Scenario:
-You are tasked with provisioning a basic web application stack in AWS using Terraform.
+Deploying a simple web page in AWS using Terraform.
 Requirements:
 1) Deploy an EC2 instance running an Nginx server.
 2) Use a security group to allow:
